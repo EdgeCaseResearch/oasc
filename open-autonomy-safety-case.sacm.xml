@@ -168,7 +168,7 @@
 
     <!-- Goal 1: Top-level claim -->
     <claim id="G1" name="Goal 1"
-           content="The autonomous vehicle is safe enough to deploy">
+           content="The autonomous vehicle is safe enough to deploy.">
       <description>Top-level safety claim for the autonomous vehicle deployment</description>
     </claim>
 
@@ -196,7 +196,7 @@
 
     <!-- Strategy 2: Appeal to Positive Trust Balance -->
     <argumentReasoning id="S2" name="Strategy 2"
-                       content="Appeal to Positive Trust Balance">
+                       content="Appeal to Positive Trust Balance.">
       <description>The argument strategy based on achieving a positive trust balance through organizational trustworthiness, vehicle safety, and safe operations</description>
     </argumentReasoning>
 
@@ -307,13 +307,13 @@
 
     <!-- Strategy 6: Transparency enables trust -->
     <argumentReasoning id="S6" name="Strategy 6"
-                       content="Transparency enables trust">
+                       content="Transparency enables trust.">
       <description>Argument that transparency through sharing assessments builds stakeholder trust</description>
     </argumentReasoning>
 
     <!-- Strategy 7: SMS Best Practice -->
     <argumentReasoning id="S7" name="Strategy 7"
-                       content="An SMS is a best practice for managing system safety">
+                       content="An SMS is a best practice for managing system safety.">
       <description>Argument that a Safety Management System represents best practice</description>
     </argumentReasoning>
 
@@ -325,13 +325,13 @@
 
     <!-- Strategy 16: Appeal to relevant regulation -->
     <argumentReasoning id="S16" name="Strategy 16"
-                       content="Appeal to relevant regulation">
+                       content="Appeal to relevant regulation.">
       <description>Argument based on regulatory compliance</description>
     </argumentReasoning>
 
     <!-- Strategy 17: Appeal to German Ethics Commission -->
     <argumentReasoning id="S17" name="Strategy 17"
-                       content="Appeal to German Ethics Commission report">
+                       content="Appeal to German Ethics Commission report.">
       <description>Argument based on ethical guidelines for automated driving</description>
     </argumentReasoning>
 
@@ -343,13 +343,13 @@
 
     <!-- Strategy 19: Appeal to UL 4600 -->
     <argumentReasoning id="S19" name="Strategy 19"
-                       content="Appeal to UL 4600">
+                       content="Appeal to UL 4600.">
       <description>Argument based on autonomous products evaluation standard</description>
     </argumentReasoning>
 
     <!-- Strategy 20: Appeal to IATF 16949 -->
     <argumentReasoning id="S20" name="Strategy 20"
-                       content="Appeal to IATF 16949">
+                       content="Appeal to IATF 16949.">
       <description>Argument based on automotive quality management standard</description>
     </argumentReasoning>
 
@@ -564,7 +564,7 @@
 
     <!-- Goal 43: Configuration Management -->
     <claim id="G43" name="Goal 43"
-           content="We follow configuration mangement standards.">
+           content="We follow configuration management standards.">
       <description>Configuration management practices</description>
     </claim>
 
@@ -628,73 +628,73 @@
 
     <!-- Strategy 33: Safety Hazard Analysis Standards -->
     <argumentReasoning id="S33" name="Strategy 33"
-                       content="Appeal to safety hazard analysis standards">
+                       content="Appeal to safety hazard analysis standards.">
       <description>Argument based on hazard analysis methodologies</description>
     </argumentReasoning>
 
     <!-- Strategy 34: Safety Risk Mitigation Standards -->
     <argumentReasoning id="S34" name="Strategy 34"
-                       content="Appeal to safety risk mitigation standards">
+                       content="Appeal to safety risk mitigation standards.">
       <description>Argument based on risk mitigation through standards conformance</description>
     </argumentReasoning>
 
     <!-- Strategy 35: Configuration Management Standards -->
     <argumentReasoning id="S35" name="Strategy 35"
-                       content="Appeal to config mgmt standards">
+                       content="Appeal to config mgmt standards.">
       <description>Argument based on configuration management standards</description>
     </argumentReasoning>
 
     <!-- Strategy 36: Data Recording Best Practices -->
     <argumentReasoning id="S36" name="Strategy 36"
-                       content="Appeal to forensic data recording best practices">
+                       content="Appeal to forensic data recording best practices.">
       <description>Argument based on data recording for incident investigation</description>
     </argumentReasoning>
 
     <!-- Strategy 45: SAE J3307 (STPA) -->
     <argumentReasoning id="S45" name="Strategy 45"
-                       content="Appeal to SAE J3307 (STPA)">
+                       content="Appeal to SAE J3307 (STPA).">
       <description>Argument based on STPA hazard analysis methodology</description>
     </argumentReasoning>
 
     <!-- Strategy 46: FMVSS -->
     <argumentReasoning id="S46" name="Strategy 46"
-                       content="Appeal to FMVSS">
+                       content="Appeal to FMVSS.">
       <description>Argument based on Federal Motor Vehicle Safety Standards</description>
     </argumentReasoning>
 
     <!-- Strategy 47: ISO 26262 -->
     <argumentReasoning id="S47" name="Strategy 47"
-                       content="Appeal to ISO 26262">
+                       content="Appeal to ISO 26262.">
       <description>Argument based on functional safety standard</description>
     </argumentReasoning>
 
     <!-- Strategy 48: ISO/PAS 8800 -->
     <argumentReasoning id="S48" name="Strategy 48"
-                       content="Appeal to ISO/PAS 8800">
+                       content="Appeal to ISO/PAS 8800.">
       <description>Argument based on AI safety standard</description>
     </argumentReasoning>
 
     <!-- Strategy 49: ISO 21448 -->
     <argumentReasoning id="S49" name="Strategy 49"
-                       content="Appeal to ISO 21448">
+                       content="Appeal to ISO 21448.">
       <description>Argument based on SOTIF standard</description>
     </argumentReasoning>
 
     <!-- Strategy 50: ISO 21434 -->
     <argumentReasoning id="S50" name="Strategy 50"
-                       content="Appeal to ISO 21434">
+                       content="Appeal to ISO 21434.">
       <description>Argument based on cybersecurity engineering standard</description>
     </argumentReasoning>
 
     <!-- Strategy 51: ISO 10007 -->
     <argumentReasoning id="S51" name="Strategy 51"
-                       content="Appeal to ISO 10007">
+                       content="Appeal to ISO 10007.">
       <description>Argument based on configuration management standard</description>
     </argumentReasoning>
 
     <!-- Strategy 52: SAE AVSC 00004 -->
     <argumentReasoning id="S52" name="Strategy 52"
-                       content="Appeal to SAE AVSC 00004">
+                       content="Appeal to SAE AVSC 00004.">
       <description>Argument based on data recording standard</description>
     </argumentReasoning>
 
@@ -947,19 +947,19 @@
 
     <!-- Strategy 69: Operational Safety Best Practices -->
     <argumentReasoning id="S69" name="Strategy 69"
-                       content="Appeal to all relevant operational safety best practices">
+                       content="Appeal to all relevant operational safety best practices.">
       <description>Argument based on operational safety best practices</description>
     </argumentReasoning>
 
     <!-- Strategy 70: Procedural Mitigations -->
     <argumentReasoning id="S70" name="Strategy 70"
-                       content="Argument over procedural mitigations">
+                       content="Argument over procedural mitigations.">
       <description>Argument that operating procedures address residual hazards</description>
     </argumentReasoning>
 
     <!-- Strategy 71: Effective Safety Management -->
     <argumentReasoning id="S71" name="Strategy 71"
-                       content="Appeal to effective safety management">
+                       content="Appeal to effective safety management.">
       <description>Argument based on safety management effectiveness</description>
     </argumentReasoning>
 
