@@ -174,19 +174,19 @@
 
     <!-- Goal 3: Organization Trustworthiness - "Live It Right" -->
     <claim id="G3" name="Goal 3"
-           content="Our organization is trustworthy">
+           content="The organization is trustworthy.">
       <description>Organizational trustworthiness claim - "Live It Right"</description>
     </claim>
 
     <!-- Goal 4: Vehicle Safety - "Build It Right" -->
     <claim id="G4" name="Goal 4"
-           content="Our vehicle is safe to operate">
+           content="The vehicle is safe to operate.">
       <description>Vehicle safety claim - "Build It Right"</description>
     </claim>
 
     <!-- Goal 5: Operational Safety - "Operate It Right" -->
     <claim id="G5" name="Goal 5"
-           content="We operate the vehicle safely">
+           content="We operate the vehicle safely.">
       <description>Operational safety claim - "Operate It Right"</description>
     </claim>
 
@@ -237,67 +237,67 @@
 
     <!-- Goal 8: Transparency -->
     <claim id="G8" name="Goal 8"
-           content="We regularly share results of independent safety assessments with stakeholders">
+           content="We regularly share results of independent safety assessments with stakeholders.">
       <description>Transparency through sharing assessment results</description>
     </claim>
 
     <!-- Goal 9: Assessor Independence -->
     <claim id="G9" name="Goal 9"
-           content="Assessor independence satisfies requirements of UL 4600">
+           content="Assessor independence satisfies requirements of UL 4600.">
       <description>Independent assessor qualification per UL 4600</description>
     </claim>
 
     <!-- Goal 10: SMS Policies Alignment -->
     <claim id="G10" name="Goal 10"
-           content="SMS safety policies are aligned with stakeholder requirements">
+           content="SMS safety policies are aligned with stakeholder requirements.">
       <description>Safety Management System policies meet stakeholder needs</description>
     </claim>
 
     <!-- Goal 11: SMS Processes -->
     <claim id="G11" name="Goal 11"
-           content="SMS processes are in use">
+           content="SMS processes are in use.">
       <description>Safety Management System processes are actively implemented</description>
     </claim>
 
     <!-- Goal 12: Safety Case Monitoring -->
     <claim id="G12" name="Goal 12"
-           content="Our safety case is monitored and improved">
+           content="Our safety case is monitored &amp; improved.">
       <description>Continuous monitoring and improvement of the safety case</description>
     </claim>
 
     <!-- Goal 21: Safety Advisory Board Approval -->
     <claim id="G21" name="Goal 21"
-           content="SRCs are approved by our safety advisory board">
+           content="SRCs are approved by our safety advisory board.">
       <description>Safety-related claims approved by safety advisory board</description>
     </claim>
 
     <!-- Goal 22: Regulatory Compliance -->
     <claim id="G22" name="Goal 22"
-           content="Our SRCs satisfy regulations in our operational area">
+           content="Our SRCs satisfy regulations in our operational area.">
       <description>Safety-related claims satisfy applicable regulations</description>
     </claim>
 
     <!-- Goal 23: Ethics Guidelines Compliance -->
     <claim id="G23" name="Goal 23"
-           content="Our SRCs satisfy report guidelines">
+           content="Our SRCs satisfy report guidelines.">
       <description>Safety-related claims satisfy German Ethics Commission guidelines</description>
     </claim>
 
-    <!-- Goal 24: 14 CFR Part 5 Conformance -->
+    <!-- Goal 24: 14 CFR part 5 Conformance -->
     <claim id="G24" name="Goal 24"
-           content="Our SMS conforms with 14 CFR Part 5">
+           content="Our SMS conforms with 14 CFR part 5.">
       <description>Safety Management System conformance with aviation SMS standards</description>
     </claim>
 
     <!-- Goal 25: UL 4600 Continuous Improvement -->
     <claim id="G25" name="Goal 25"
-           content="Our safety case is continuously improved in conformance with relevant sections of UL 4600">
+           content="Our safety case is continuously improved in conformance with relevant sections of UL 4600.">
       <description>Continuous improvement per UL 4600 requirements</description>
     </claim>
 
     <!-- Goal 26: IATF 16949 Conformance -->
     <claim id="G26" name="Goal 26"
-           content="Our organization conforms with IATF 16949">
+           content="Our organization conforms with IATF 16949.">
       <description>Automotive quality management system conformance</description>
     </claim>
 
@@ -335,9 +335,9 @@
       <description>Argument based on ethical guidelines for automated driving</description>
     </argumentReasoning>
 
-    <!-- Strategy 18: Appeal to 14 CFR Part 5 -->
+    <!-- Strategy 18: Appeal to 14 CFR part 5 -->
     <argumentReasoning id="S18" name="Strategy 18"
-                       content="Appeal to 14 CFR Part 5">
+                       content="Appeal to 14 CFR part 5.">
       <description>Argument based on aviation safety management standards</description>
     </argumentReasoning>
 
@@ -528,97 +528,97 @@
 
     <!-- Goal 37: Hazard Analysis -->
     <claim id="G37" name="Goal 37"
-           content="We have analyzed all hazards posed by the vehicle">
+           content="We have analyzed all hazards posed by the vehicle.">
       <description>Comprehensive hazard analysis completion</description>
     </claim>
 
     <!-- Goal 38: Vehicle Safety Standards -->
     <claim id="G38" name="Goal 38"
-           content="The vehicle conforms with vehicle safety standards">
+           content="The vehicle conforms with vehicle safety standards.">
       <description>Conformance with vehicle safety standards</description>
     </claim>
 
     <!-- Goal 39: Functional Safety -->
     <claim id="G39" name="Goal 39"
-           content="The vehicle conforms with functional safety standards">
+           content="The vehicle conforms with functional safety standards.">
       <description>Conformance with functional safety standards</description>
     </claim>
 
     <!-- Goal 40: AI Engineering Rigor -->
     <claim id="G40" name="Goal 40"
-           content="The vehicle conforms with AI engineering rigor standards">
+           content="The vehicle conforms with AI engineering rigor standards.">
       <description>Conformance with AI/ML engineering standards</description>
     </claim>
 
     <!-- Goal 41: Intended Functions Safety -->
     <claim id="G41" name="Goal 41"
-           content="The vehicle's intended functions are safe">
+           content="The vehicle's intended functions are safe.">
       <description>Safety of intended functionality (SOTIF)</description>
     </claim>
 
     <!-- Goal 42: Security Standards -->
     <claim id="G42" name="Goal 42"
-           content="The vehicle conforms with security standards">
+           content="The vehicle conforms with security standards.">
       <description>Conformance with cybersecurity standards</description>
     </claim>
 
     <!-- Goal 43: Configuration Management -->
     <claim id="G43" name="Goal 43"
-           content="We follow configuration management standards">
+           content="We follow configuration mangement standards.">
       <description>Configuration management practices</description>
     </claim>
 
     <!-- Goal 44: Data Recording -->
     <claim id="G44" name="Goal 44"
-           content="The vehicle conforms with data recording best practices">
+           content="The vehicle conforms with data recording best practices.">
       <description>Forensic data recording capabilities</description>
     </claim>
 
     <!-- Goal 53: STPA Hazard Analysis -->
     <claim id="G53" name="Goal 53"
-           content="We completed a hazard analysis according to this standard">
+           content="We completed a hazard analysis according to this standard.">
       <description>Hazard analysis per SAE J3307 STPA</description>
     </claim>
 
     <!-- Goal 54: FMVSS Conformance -->
     <claim id="G54" name="Goal 54"
-           content="Our vehicle conforms with FMVSS">
+           content="Our vehicle conforms with FMVSS.">
       <description>Federal Motor Vehicle Safety Standards conformance</description>
     </claim>
 
     <!-- Goal 55: ISO 26262 Conformance -->
     <claim id="G55" name="Goal 55"
-           content="We developed our system according to ISO 26262">
+           content="We developed our system according to ISO 26262.">
       <description>Functional safety development per ISO 26262</description>
     </claim>
 
     <!-- Goal 56: ISO/PAS 8800 Conformance -->
     <claim id="G56" name="Goal 56"
-           content="We developed our system according to ISO/PAS 8800">
+           content="We developed our system according to ISO/PAS 8800.">
       <description>AI safety development per ISO/PAS 8800</description>
     </claim>
 
     <!-- Goal 57: ISO 21448 Conformance -->
     <claim id="G57" name="Goal 57"
-           content="We developed our system according to ISO 21448">
+           content="We developed our system according to ISO 21448.">
       <description>SOTIF development per ISO 21448</description>
     </claim>
 
     <!-- Goal 58: ISO 21434 Conformance -->
     <claim id="G58" name="Goal 58"
-           content="We developed our system according to ISO 21434">
+           content="We developed our system according to ISO 21434.">
       <description>Cybersecurity engineering per ISO 21434</description>
     </claim>
 
     <!-- Goal 59: ISO 10007 Risk Management -->
     <claim id="G59" name="Goal 59"
-           content="We manage these risks according to ISO 10007">
+           content="We manage these risks according to ISO 10007.">
       <description>Configuration management per ISO 10007</description>
     </claim>
 
     <!-- Goal 60: SAE AVSC 00004 Conformance -->
     <claim id="G60" name="Goal 60"
-           content="Our system and operations conform with all recommendations in SAE AVSC 00004">
+           content="Our system and operations conform with all recommendations in SAE AVSC 00004.">
       <description>Data recording per SAE AVSC 00004</description>
     </claim>
 
@@ -901,43 +901,43 @@
 
     <!-- Goal 72: Trip Interruptions -->
     <claim id="G72" name="Goal 72"
-           content="Our operations support trip interruptions IAW all recommendations in SAE AVSC 00003">
+           content="Our operations support trip interruptions IAW all recommendations in SAE AVSC 00003.">
       <description>Trip interruption operations per SAE AVSC 00003</description>
     </claim>
 
     <!-- Goal 73: Post-Crash Operations -->
     <claim id="G73" name="Goal 73"
-           content="Our post-crash operations conform with all recommendations in SAE AVSC-I-05">
+           content="Our post-crash operations conform with all recommendations in SAE AVSC-I-05.">
       <description>Post-crash operations per SAE AVSC-I-05</description>
     </claim>
 
     <!-- Goal 74: Remote Operations -->
     <claim id="G74" name="Goal 74"
-           content="Our remote operations conform with all recommendations in SAE AVSC-I-04">
+           content="Our remote operations conform with all recommendations in SAE AVSC-I-04.">
       <description>Remote operations per SAE AVSC-I-04</description>
     </claim>
 
     <!-- Goal 75: First Responder Interactions -->
     <claim id="G75" name="Goal 75"
-           content="Our first responder interactions conform with all recommendations in SAE AVSC-I-01">
+           content="Our first responder interactions conform with all recommendations in SAE AVSC-I-01.">
       <description>First responder interaction procedures per SAE AVSC-I-01</description>
     </claim>
 
     <!-- Goal 76: Safety Inspections -->
     <claim id="G76" name="Goal 76"
-           content="Our safety inspections conform with all recommendations in SAE AVSC-D-03">
+           content="Our safety inspections conform with all recommendations in SAE AVSC-D-03.">
       <description>Safety inspection procedures per SAE AVSC-D-03</description>
     </claim>
 
     <!-- Goal 77: Metrics Monitoring -->
     <claim id="G77" name="Goal 77"
-           content="We monitor metrics in operations IAW all recommendations in SAE AVSC 00006">
+           content="We monitor metrics in operations IAW all recommendations in SAE AVSC 00006.">
       <description>Operational metrics monitoring per SAE AVSC 00006</description>
     </claim>
 
     <!-- Goal 78: Procedural Hazard Mitigations -->
     <claim id="G78" name="Goal 78"
-           content="Our operating procedures mitigate all hazards without technical mitigations">
+           content="Our operating procedures mitigate all hazards without technical mitigations.">
       <description>Procedural mitigations for residual hazards</description>
     </claim>
 
